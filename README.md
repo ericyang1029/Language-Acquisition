@@ -12,9 +12,13 @@
     C.The cultural district is in the northeast of the business district \
     D.The business district is southeast of the leisure area
 1. Syllogism
+   - Avicennna: Only have categorical syllogism
 
 2. WiC: words' meanings under different contexts
    ![Alt text](./StageIII/pics/WiC_pic1.png)
 
 3. ReClor: Reading Comprehension related to logical reasoning
    ![Alt text](./StageIII/pics/ReClor_pic1.png)
+
+4. Verbal Reasoning
+   

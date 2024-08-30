@@ -1,0 +1,79 @@
+{
+    "names": [
+        "James",
+        "Emma",
+        "Liam",
+        "Olivia",
+        "Noah",
+        "Sophia",
+        "Benjamin",
+        "Ava",
+        "Elijah",
+        "Isabella"
+    ]
+    ,
+    "flat_things": [
+        "table",
+        "desk",
+        "countertop",
+        "shelf",
+        "roof",
+        "sofa",
+        "chair",
+        "bench",
+        "mantel",
+        "stool"
+    ]
+,
+    "objects": [
+        "book",
+        "phone",
+        "lamp",
+        "bottle",
+        "chair",
+        "backpack",
+        "pen",
+        "notebook",
+        "keyboard",
+        "cup"
+    ]
+  ,
+    "indoor_places_inside": [
+        "living room",
+        "kitchen",
+        "bedroom",
+        "shopping mall",
+        "dining room",
+        "hallway",
+        "closet",
+        "classroom",
+        "house",
+        "basement"
+    ]
+    ,
+    "spatial_terms": [
+        "in",
+        "on",
+        "at",
+        "above",
+        "below",
+        "over",
+        "under",
+        "next to",
+        "beside",
+        "near",
+        "far from",
+        "between",
+        "among",
+        "behind",
+        "beneath",
+        "underneath",
+        "outside",
+        "down",
+        "out of",
+        "ajacent to",
+        "beyond"
+
+    ]
+  }
+

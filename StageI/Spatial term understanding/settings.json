@@ -54,26 +54,46 @@
     "spatial_terms": [
         "in",
         "on",
-        "at",
+        "at", // X
         "above",
         "below",
         "over",
         "under",
-        "next to",
-        "beside",
+        "beside", // X
         "near",
-        "far from",
-        "between",
+        "far",
+        "away",
+        "faraway",
+        "between", 
         "among",
-        "behind",
+        "behind", // X
         "beneath",
         "underneath",
         "outside",
-        "down",
-        "out of",
-        "ajacent to",
+        "down", // X
         "beyond"
-
+    ],
+    "palces": [
+        "library",
+        "museum",
+        "restaurant",
+        "cinema",
+        "hospital",
+        "school",
+        "airport",
+        "train station",
+        "bus station",
+        "stadium",
+        "shopping mall",
+        "park",
+        "theater",
+        "zoo",
+        "amusement park",
+        "aquarium",
+        "courthouse",
+        "post office",
+        "community center",
+        "fire station"
     ]
   }
 

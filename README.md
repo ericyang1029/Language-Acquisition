@@ -1,5 +1,13 @@
 # Pyscholinguistic-Benchmark
 
+## Stage I (from 0 - 6)
+1. agent-action-object (from BLiMP)
+   - Danielle visited Irene vs The eye visited Irene
+2. causality_conditionality (if, because, why) (from MultiNLI)
+   - "That is why icons have the power they have." contradicts "That is why God moves me."
+3. one-word-understanding
+   - multiple choice questions for word-level understanding
+
 ## Stage III (from age 12 - adolesence and later)
 1. LogiQA
    - example: \

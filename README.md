@@ -8,6 +8,11 @@
 3. one-word-understanding
    - multiple choice questions for word-level understanding
 
+## Stage II (from 6 -12)
+1. GLUE_diag
+2. multilin_filtered
+3. cola_filtered
+
 ## Stage III (from age 12 - adolesence and later)
 1. LogiQA
    - example: \
@@ -27,6 +32,8 @@
 
 3. ReClor: Reading Comprehension related to logical reasoning
    ![Alt text](./StageIII/pics/ReClor_pic1.png)
+
+4. Diffcult Words Inference
 
 4. Verbal Reasoning
    

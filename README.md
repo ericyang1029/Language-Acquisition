@@ -9,28 +9,17 @@
    - multiple choice questions for word-level understanding
 
 ## Stage II (from 6 -12)
-1. GLUE_diag
-2. multilin_filtered
-3. cola_filtered
+1. grammar-comp
+2. BLiMP-comp
+3. grammar-diag
+4. cola
 
-## Stage III (from age 12 - adolesence and later)
-1. LogiQA
-   - example: \
-    *Correct Answer*: a \
-    *Question*: In the planning of a new district in a township, it was decided to build a special community in the southeast, northwest, centered on the citizen park.These four communities are designated as cultural area, leisure area, commercial area and administrative service area.It is known that the administrative service area is southwest of the cultural area, and the cultural area is southeast of the leisure area.
-    Based on the above statement, which of the following can be derived? \
-    \
-    A.Civic Park is north of the administrative service area \
-    B.The leisure area is southwest of the cultural area\
-    C.The cultural district is in the northeast of the business district \
-    D.The business district is southeast of the leisure area
-1. Syllogism
-   - Avicennna: Only have categorical syllogism
+## Stage III (from age 12 and later)
 
-2. WiC: words' meanings under different contexts
-   ![Alt text](./StageIII/pics/WiC_pic1.png)
+1. WiC: words' meanings under different contexts
+   ![Alt text](./Stage\III/pics/WiC_pic1.png)
 
-3. ReClor: Reading Comprehension related to logical reasoning
-   ![Alt text](./StageIII/pics/ReClor_pic1.png)
+2. ReClor: Reading Comprehension related to logical reasoning
+   ![Alt text](./Stage\III/pics/ReClor_pic1.png)
 
    

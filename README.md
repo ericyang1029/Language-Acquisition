@@ -17,9 +17,9 @@
 ## Stage III (from age 12 and later)
 
 1. WiC: words' meanings under different contexts
-   ![Alt text](./Stage III/pics/WiC_pic1.png)
+   ![Alt text](./Stage_III/pics/WiC_pic1.png)
 
 2. ReClor: Reading Comprehension related to logical reasoning
-   ![Alt text](./Stage III/pics/ReClor_pic1.png)
+   ![Alt text](./Stage_III/pics/ReClor_pic1.png)
 
    

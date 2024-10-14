@@ -1,0 +1,26 @@
+<pad>_NNP This_DT sentence_NN is_VBZ true_JJ ,_, because_IN cities_NNS are_VBP not_RB just_RB economic_JJ engines_NNS ,_, but_CC cultural_JJ engines_NNS ._.
+Therefore_RB ,_, cities_NNS must_MD be_VB given_VBN all_PDT the_DT financial_JJ support_NN they_PRP need_VBP to_TO thrive_VB ._.
+This_DT is_VBZ particularly_RB true_JJ for_IN major_JJ cities_NNS ,_, since_IN they_PRP have_VBP historically_RB been_VBN home_NN to_TO the_DT best_JJS and_CC most_RBS important_JJ human_JJ cultural_JJ institutions_NNS of_IN the_DT country_NN ,_, in_IN comparison_NN to_TO other_JJ areas_NNS ._.
+Therefore_RB ,_, if_IN governments_NNS fail_VBP to_TO provide_VB proper_JJ support_NN to_TO their_PRP$ cities_NNS ,_, their_PRP$ cultural_JJ traditions_NNS are_VBP at_IN risk_NN of_IN being_VBG lost_VBN ._.
+A_DT national_JJ government_NN can_MD assist_VB with_IN this_DT through_IN an_DT increase_NN in_IN federal_JJ investment_NN in_IN cities_NNS ._.
+The_DT argument_NN can_MD also_RB be_VB applied_VBN to_TO state_NN governments_NNS ,_, since_IN they_PRP are_VBP largely_RB responsible_JJ for_IN protecting_VBG major_JJ cities_NNS from_IN the_DT consequences_NNS of_IN climate_NN change_NN ._.
+Therefore_RB ,_, cities_NNS can_MD continue_VB to_TO benefit_VB from_IN this_DT investment_NN despite_IN climate_NN change_NN ._.
+Therefore_RB ,_, states_NNS should_MD make_VB sure_JJ their_PRP$ major_JJ cities_NNS are_VBP well_RB funded_VBN in_IN order_NN to_TO preserve_VB their_PRP$ cultural_JJ traditions_NNS ._.
+This_DT includes_VBZ making_VBG sure_JJ they_PRP have_VBP the_DT appropriate_JJ infrastructure_NN for_IN the_DT future_NN ._.
+Without_IN proper_JJ infrastructure_NN ,_, the_DT future_NN will_MD be_VB uncertain_JJ for_IN cities_NNS and_CC other_JJ major_JJ cities_NNS ._.
+Therefore_RB ,_, states_NNS should_MD provide_VB adequate_JJ infrastructure_NN for_IN the_DT future_NN ._.
+State_NNP governments_NNS can_MD also_RB fund_VB the_DT creation_NN of_IN new_JJ ,_, thriving_VBG major_JJ cities_NNS through_IN the_DT federal_JJ government_NN ,_, since_IN cities_NNS are_VBP home_NN to_TO a_DT variety_NN of_IN industries_NNS ._.
+Therefore_RB ,_, state_NN governments_NNS can_MD continue_VB to_TO support_VB their_PRP$ major_JJ cities_NNS ._.
+However_RB ,_, the_DT current_JJ state_NN of_IN affairs_NNS with_IN regard_NN to_TO major_JJ cities_NNS is_VBZ incompatible_JJ with_IN the_DT current_JJ state_NN of_IN affairs_NNS with_IN regard_NN to_TO climate_NN change_NN ._.
+The_DT climate_NN change_NN that_WDT is_VBZ currently_RB occurring_VBG is_VBZ putting_VBG at_IN risk_NN many_JJ major_JJ cities_NNS ._.
+Therefore_RB ,_, states_NNS should_MD make_VB sure_JJ that_IN they_PRP are_VBP providing_VBG adequate_JJ support_NN to_TO their_PRP$ major_JJ cities_NNS in_IN order_NN to_TO minimize_VB their_PRP$ damage_NN ._.
+This_DT would_MD include_VB putting_VBG adequate_JJ financial_JJ infrastructure_NN in_IN place_NN ._.
+States_NNS should_MD provide_VB incentives_NNS to_TO encourage_VB cities_NNS to_TO adapt_VB to_TO changing_VBG environmental_JJ conditions_NNS ._.
+If_IN there_EX is_VBZ any_DT chance_NN of_IN avoiding_VBG climate_NN change_NN ,_, then_RB cities_NNS should_MD be_VB given_VBN the_DT financial_JJ support_NN needed_VBN to_TO thrive_VB ._.
+As_IN for_IN the_DT argument_NN that_WDT cities_NNS have_VBP no_DT cultural_JJ tradition_NN ,_, I_PRP do_VBP not_RB believe_VB that_IN statement_NN is_VBZ accurate_JJ ._.
+However_RB ,_, I_PRP believe_VBP that_IN cities_NNS should_MD be_VB able_JJ to_TO thrive_VB independently_RB of_IN government_NN ,_, and_CC that_IN this_DT argument_NN can_MD be_VB proven_VBN by_IN evidence_NN and_CC statistics_NNS ._.
+I_PRP also_RB believe_VBP that_IN cities_NNS should_MD be_VB able_JJ to_TO sustain_VB themselves_PRP ._.
+This_DT statement_NN can_MD be_VB supported_VBN by_IN many_JJ pieces_NNS of_IN evidence_NN ,_, such_JJ as_IN the_DT United_NNP States_NNP Department_NNP of_IN Housing_NNP and_CC Urban_NNP Development_NNP 's_POS 2010_CD Housing_NN and_CC Urban_NNP Development_NNP Index_NNP ._.
+There_EX are_VBP many_JJ studies_NNS that_WDT have_VBP found_VBN that_IN urban_JJ residents_NNS can_MD adapt_VB to_TO climate_NN change_NN ._.
+In_IN addition_NN ,_, cities_NNS are_VBP more_RBR likely_JJ to_TO experience_VB a_DT decline_NN in_IN economic_JJ development_NN and_CC a_DT decline_NN in_IN national_JJ income_NN over_IN the_DT next_JJ few_JJ decades_NNS ,_, because_IN they_PRP have_VBP grown_VBN too_RB big_JJ ._.
+</s>_IN

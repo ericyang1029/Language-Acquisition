@@ -1,0 +1,469 @@
+<pad>_NN
+Providing_VBG [WZPRES]
+the_DT
+same_JJ
+national_JJ
+curriculum_NN
+would_PRMD
+eliminate_VB
+the_DT
+possibility_NOMZ
+of_PIN
+standardized_JJ
+testing_GER
+among_PIN
+different_JJ
+school_NN
+districts_NN
+._.
+A_DT
+nation_NOMZ
+with_PIN
+high_JJ
+standards_NN
+of_PIN
+educational_JJ
+quality_NOMZ
+would_PRMD
+be_VB [BEMA]
+less_RB
+likely_PRED
+to_TO
+be_VB [BEMA]
+disadvantaged_PRED
+than_PIN
+a_DT
+nation_NOMZ
+with_PIN
+a_DT
+weaker_JJ
+standard_NN
+._.
+It_PIT
+would_PRMD [SPAU]
+also_RB
+prevent_VB
+the_DT
+spread_NN
+of_PIN
+corruption_NOMZ
+and_CC
+uncontrolled_JJ
+socialism_NN
+throughout_PIN
+a_DT
+country_NN
+._.
+The_DT
+US_FPP1
+is_VPRT [SPAU] [PASS]
+already_RB
+considered_VBN [PRIV]
+to_TO
+be_VB [BEMA]
+an_DT
+example_NN
+of_PIN
+a_DT
+nation_NOMZ
+that_TSUB
+has_VPRT
+high_JJ
+standards_NN
+for_PIN
+education_NOMZ
+._.
+My_FPP1
+position_NOMZ
+is_VPRT
+that_DEMO
+if_COND
+schools_NN
+were_VBD [PASS]
+not_XX0
+required_VBN [SUAV]
+to_TO
+have_VB
+the_DT
+same_JJ
+national_JJ
+curriculum_NN
+for_PIN
+all_QUAN
+,_,
+it_PIT
+would_PRMD
+be_VB [BEMA]
+a_DT
+crime_NN
+of_PIN
+freedom_NN
+to_TO
+allow_VB [SUAV]
+schools_NN
+to_TO
+determine_VB [SUAV] [PRIV]
+what_WP [WHCL]
+courses_NN
+to_TO
+offer_VB
+._.
+This_DEMP
+would_PRMD [SPAU]
+hardly_DWNT
+prevent_VB
+the_DT
+spread_NN
+of_PIN
+elitist_NN
+groups_NN
+within_PIN
+the_DT
+country_NN
+._.
+Therefore_CONJ
+,_,
+the_DT
+best_JJ
+example_NN
+of_PIN
+how_RB
+a_DT
+nation_NOMZ
+could_POMD
+do_VB
+this_DEMP
+is_VPRT [BEMA]
+by_PIN
+requiring_VBG [SUAV]
+the_DT
+creation_NOMZ
+of_PIN
+a_DT
+national_JJ
+curriculum_NN
+._.
+This_DEMP
+would_PRMD
+prevent_VB
+local_JJ
+school_NN
+districts_NN
+from_PIN
+deciding_VBG [SUAV] [PRIV]
+the_DT
+courses_NN
+they_TPP3
+wish_VPRT
+to_TO
+offer_VB
+._.
+It_PIT
+would_PRMD [SPAU]
+also_RB
+make_VB
+sure_JJ
+that_THAC
+the_DT
+schools_NN
+in_PIN
+the_DT
+US_FPP1
+do_VPRT
+not_XX0
+discriminate_JJ
+against_PIN
+the_DT
+students_NN
+from_PIN
+other_JJ
+parts_NN
+of_PIN
+the_DT
+country_NN
+._.
+These_DEMP
+are_VPRT [BEMA]
+very_AMP
+specific_JJ
+issues_NN
+._.
+I_FPP1
+have_VPRT [SPAU] [PEAS]
+never_RB
+argued_VBN [PUBV]
+for_PIN
+such_EMPH
+a_NULL
+system_NN
+before_IN
+._.
+Therefore_CONJ
+,_,
+it_PIT
+is_VPRT [BEMA]
+my_FPP1
+opinion_NN
+that_TOBJ
+we_FPP1
+need_VPRT
+to_TO
+set_VB
+a_DT
+national_JJ
+standards_NN
+for_PIN
+education_NOMZ
+which_WDT [WHSUB]
+include_VPRT
+standardized_JJ
+tests_NN
+._.
+This_DEMP
+would_PRMD
+make_VB
+it_PIT
+impossible_JJ
+for_PIN
+anyone_QUPR
+to_TO
+find_VB [PRIV]
+a_DT
+good_JJ
+school_NN
+._.
+Therefore_CONJ
+,_,
+my_FPP1
+point_NN
+is_VPRT
+that_DEMO
+we_FPP1
+should_NEMD
+not_XX0
+allow_VB [SUAV]
+a_DT
+national_JJ
+curriculum_NN
+to_TO
+be_VB [PASS]
+defined_VBN
+in_PIN
+some_QUAN
+kind_NN
+of_PIN
+subjective_JJ
+way_NN
+._.
+I_FPP1
+am_VPRT [BEMA]
+not_XX0
+against_PIN
+standardized_JJ
+testing_GER
+or_CC
+testing_GER
+for_PIN
+different_JJ
+reasons_NN
+._.
+However_CONJ
+,_,
+I_FPP1
+do_VPRT
+not_XX0
+believe_VB [PRIV] [THATD]
+that_DEMP
+this_DEMP
+should_NEMD
+be_VB [PASS]
+done_VBN [PROD]
+as_IN
+a_DT
+way_NN
+to_TO
+eliminate_VB
+the_DT
+possibility_NOMZ
+of_PIN
+cheating_GER
+._.
+Thus_CONJ
+,_,
+I_FPP1
+have_VPRT [SPAU] [PEAS]
+always_RB
+opposed_VBN
+the_DT
+idea_NN
+of_PIN
+allowing_VBG [SUAV]
+students_NN
+in_PIN
+some_QUAN
+parts_NN
+of_PIN
+the_DT
+country_NN
+to_TO
+choose_VB
+the_DT
+courses_NN
+they_TPP3
+wish_VPRT
+to_TO
+take_VB
+._.
+However_CONJ
+,_,
+I_FPP1
+think_VPRT [PRIV]
+that_THVC
+such_EMPH
+a_NULL
+system_NN
+is_VPRT [SPAU] [PASS]
+inherently_RB
+flawed_VBN
+._.
+It_PIT
+is_VPRT [BEMA]
+difficult_PRED
+to_TO
+know_VB [PRIV]
+that_THVC
+the_DT
+schools_NN
+in_PIN
+these_DEMO
+parts_NN
+of_PIN
+the_DT
+US_FPP1
+will_PRMD
+have_VB
+an_DT
+issue_NN
+with_PIN
+the_DT
+same_JJ
+courses_NN
+and_PHC
+curriculum_NN
+._.
+It_PIT
+will_PRMD [SPAU]
+only_DWNT
+complicate_VB
+matters_NN
+further_RB
+._.
+Furthermore_CONJ
+,_,
+a_DT
+national_JJ
+curriculum_NN
+would_PRMD
+be_VB [BEMA]
+likely_PRED
+to_TO
+increase_VB
+the_DT
+rates_NN
+of_PIN
+student_NN
+academic_JJ
+achievement_NOMZ
+and_CC
+would_PRMD
+not_XX0
+benefit_VB
+the_DT
+national_JJ
+economy_NN
+in_PIN
+any_QUAN
+way_NN
+._.
+Therefore_CONJ
+,_,
+I_FPP1
+believe_VPRT [PRIV] [THATD]
+that_DEMP
+this_DEMO
+suggestion_NOMZ
+would_PRMD
+not_XX0
+be_VB [BEMA]
+beneficial_PRED
+._.
+I_FPP1
+would_PRMD [SPAU]
+also_RB
+disagree_VB
+with_PIN
+the_DT
+statement_NOMZ
+that_TOBJ
+it_PIT
+would_PRMD
+be_VB [BEMA]
+unfair_PRED
+for_PIN
+schools_NN
+to_TO
+decide_VB [SUAV] [PRIV]
+what_WP [WHCL]
+courses_NN
+to_TO
+offer_VB
+in_PIN
+their_TPP3
+schools_NN
+._.
+This_DEMP
+would_PRMD
+make_VB
+it_PIT
+difficult_JJ
+for_PIN
+them_TPP3
+to_TO
+provide_VB
+an_DT
+education_NOMZ
+for_PIN
+students_NN
+who_WP [WHSUB]
+may_POMD
+not_XX0
+have_VB
+an_DT
+income_NN
+._.
+However_CONJ
+,_,
+I_FPP1
+believe_VPRT [PRIV] [THATD]
+that_DEMP
+this_DEMP
+would_PRMD
+be_VB [BEMA]
+a_DT
+very_AMP
+good_JJ
+method_NN
+._.
+Therefore_CONJ
+,_,
+I_FPP1
+think_VPRT [PRIV]
+that_THVC
+the_DT
+bill_NN
+would_PRMD
+be_VB [BEMA]
+very_AMP
+beneficial_PRED
+._.
+</s>_IN

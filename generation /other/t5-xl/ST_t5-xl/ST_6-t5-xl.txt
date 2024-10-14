@@ -1,0 +1,25 @@
+<pad>_IN I_PRP think_VBP that_IN the_DT fact_NN that_IN the_DT camera_NN is_VBZ able_JJ to_TO take_VB high-quality_JJ video_NN of_IN many_JJ different_JJ kinds_NNS of_IN things_NNS makes_VBZ it_PRP an_DT important_JJ part_NN of_IN contemporary_JJ life_NN ._.
+For_IN example_NN ,_, in_IN a_DT high-tech_JJ society_NN ,_, video_NN recordings_NNS of_IN business_NN meetings_NNS and_CC factory_NN floor_NN conversations_NNS would_MD be_VB valuable_JJ ._.
+However_RB ,_, written_VBN records_NNS are_VBP more_RBR susceptible_JJ to_TO falsification_NN ,_, and_CC sometimes_RB fail_VB to_TO convey_VB the_DT truth_NN of_IN what_WP is_VBZ being_VBG witnessed_VBN ._.
+For_IN example_NN ,_, it_PRP 's_VBZ easy_JJ to_TO get_VB caught_VBN up_RP in_IN a_DT tense_JJ moment_NN when_WRB using_VBG a_DT camera_NN ,_, and_CC we_PRP can_MD get_VB lost_VBN in_IN the_DT story_NN ._.
+Thus_RB ,_, writing_VBG records_NNS is_VBZ a_DT less_RBR effective_JJ form_NN of_IN documentation_NN ._.
+But_CC ,_, in_IN a_DT high_JJ tech_NN society_NN ,_, video_NN cameras_NNS are_VBP more_RBR useful_JJ than_IN written_VBN records_NNS because_IN there_EX are_VBP more_JJR people_NNS and_CC more_JJR things_NNS to_TO cover_VB ._.
+Besides_IN ,_, video_NN recordings_NNS would_MD be_VB useful_JJ as_IN evidence_NN of_IN historical_JJ events_NNS ._.
+However_RB ,_, I_PRP think_VBP that_IN the_DT fact_NN that_IN video_JJ recordings_NNS are_VBP not_RB as_IN effective_JJ as_IN written_VBN records_NNS is_VBZ what_WP creates_VBZ their_PRP$ worthiness_NN in_IN a_DT high_JJ tech_NN society_NN ._.
+Therefore_RB ,_, I_PRP feel_VBP that_IN video_JJ recordings_NNS provide_VBP an_DT important_JJ part_NN of_IN contemporary_JJ life_NN but_CC that_IN written_VBN records_NNS are_VBP still_RB useful_JJ to_TO many_JJ people_NNS ._.
+I_PRP believe_VBP that_IN video_JJ recordings_NNS should_MD be_VB more_RBR widely_RB available_JJ than_IN written_VBN records_NNS ,_, especially_RB when_WRB the_DT camera_NN can_MD provide_VB higher_JJR quality_NN of_IN image_NN ._.
+I_PRP think_VBP that_IN the_DT quality_NN of_IN the_DT images_NNS produced_VBN by_IN video_NN cameras_NNS is_VBZ also_RB better_RBR ._.
+For_IN example_NN ,_, video_NN is_VBZ able_JJ to_TO provide_VB more_JJR accurate_JJ images_NNS of_IN war_NN scenes_NNS than_IN written_VBN records_NNS ._.
+Additionally_RB ,_, I_PRP think_VBP that_IN a_DT video_NN camera_NN 's_POS ability_NN to_TO provide_VB more_JJR accurate_JJ images_NNS is_VBZ important_JJ to_TO the_DT history_NN of_IN a_DT country_NN 's_POS culture_NN ._.
+Therefore_RB ,_, I_PRP believe_VBP that_IN video_JJ recordings_NNS are_VBP an_DT important_JJ part_NN of_IN contemporary_JJ life_NN ,_, while_IN written_VBN records_NNS are_VBP a_DT less_RBR important_JJ form_NN of_IN documentation_NN ._.
+I_PRP agree_VBP with_IN the_DT statements_NNS above_IN ._.
+However_RB ,_, I_PRP think_VBP there_EX are_VBP still_RB some_DT people_NNS who_WP disagree_VBP with_IN me_PRP and_CC that_IN the_DT suggestion_NN that_WDT video_JJ recordings_NNS provide_VBP a_DT more_JJR accurate_JJ record_NN of_IN contemporary_JJ life_NN is_VBZ misguided_JJ ._.
+Besides_IN ,_, I_PRP believe_VBP that_IN video_NN records_NNS may_MD provide_VB more_JJR comprehensive_JJ and_CC accurate_JJ images_NNS than_IN written_VBN records_NNS ._.
+Nonetheless_RB ,_, this_DT is_VBZ just_RB my_PRP$ opinion_NN ._.
+I_PRP 'm_VBP willing_JJ to_TO hear_VB out_RP others_NNS ._.
+Thank_VB you_PRP for_IN your_PRP$ time_NN and_CC attention_NN ._.
+Good_JJ luck_NN with_IN the_DT exam_NN ._.
+Best_JJS wishes_NNS ,_, -_: Daniel_NNP Smith_NNP ._.
+``_`` In_IN today_NN 's_POS increasingly_RB technological_JJ world_NN ,_, people_NNS need_VBP tools_NNS like_IN video_NN and_CC written_VBN records_NNS to_TO help_VB them_PRP understand_VB the_DT world_NN ._. ''_''
+-_: Janet_NNP Morrissey_NNP ,_, ``_`` Staff-Cruik_NNP School_NNP of_IN Business_NNP ,_, August_NNP 2009_CD ._. ''_''
+-_: Frederick_NNP M._NNP </s>_NNP

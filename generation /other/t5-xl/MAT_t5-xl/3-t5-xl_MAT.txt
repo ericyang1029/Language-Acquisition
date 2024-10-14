@@ -1,0 +1,489 @@
+<pad>_NN
+Yes_NN
+,_,
+I_FPP1
+agree_VPRT [SUAV] [PUBV]
+with_PIN
+the_DT
+statement_NOMZ
+._.
+Disagreement_NOMZ
+will_PRMD
+make_VB
+people_NN
+stressed_VBD
+out_PIN [STPR]
+,_,
+and_ANDC
+therefore_CONJ
+,_,
+less_RB
+likely_JJ
+to_TO
+learn_VB [PRIV]
+._.
+I_FPP1
+also_RB
+agree_VPRT [SUAV] [PUBV]
+with_PIN
+the_DT
+statement_NOMZ
+that_TOBJ
+people_NN
+who_WP [WHSUB]
+are_VPRT [BEMA]
+in_PIN
+disagreement_NOMZ
+with_PIN
+others_NN
+can_POMD
+be_VB [PASS]
+hurt_VBN
+or_CC
+be_VB [PASS]
+insulted_VBN
+._.
+I_FPP1
+believe_VPRT [PRIV] [THATD]
+that_DEMP
+agreeing_VBG [SUAV] [PUBV]
+with_PIN
+someone_QUPR
+will_PRMD
+be_VB [BEMA]
+a_DT
+better_JJ
+and_PHC
+safer_JJ
+place_NN
+to_TO
+be_VB
+._.
+This_DEMP
+is_VPRT
+because_CAUS
+it_PIT
+is_VPRT [BEMA]
+better_RB
+for_PIN
+one_CD
+'s_POS
+own_JJ
+emotional_JJ
+well-being_NN
+._.
+I_FPP1
+also_RB
+believe_VPRT [PRIV]
+that_THVC
+people_NN
+who_WP [WHSUB]
+share_VPRT
+their_TPP3
+opinions_NN
+will_PRMD
+tend_VB
+to_TO
+be_VB [BEMA]
+happier_PRED
+._.
+This_DEMP
+is_VPRT
+because_CAUS
+their_TPP3
+perspective_NN
+has_VPRT
+less_JJ
+conflict_NN
+and_PHC
+confusion_NN
+._.
+Disagreement_NOMZ
+is_VPRT [BEMA]
+a_DT
+common_JJ
+experience_NN
+for_PIN
+many_QUAN
+people_NN
+and_ANDC
+therefore_CONJ
+is_VPRT [BEMA]
+more_EMPH
+likely_PRED
+to_TO
+be_VB [BEMA]
+an_DT
+experience_NN
+that_TOBJ
+they_TPP3
+will_PRMD
+want_VB
+to_TO
+share_VB
+._.
+Disagreement_NOMZ
+may_POMD [SPAU]
+also_RB
+inhibit_VB
+one_PRP
+'s_POS
+ability_NOMZ
+to_TO
+connect_VB
+and_PHC
+share_VB
+ideas_NN
+._.
+Therefore_CONJ
+,_,
+I_FPP1
+believe_VPRT [PRIV]
+that_THVC
+it_PIT
+is_VPRT [BEMA]
+important_PRED
+to_TO
+hear_VB [PRIV]
+other_JJ
+people_NN
+'s_POS
+views_NN
+if_COND
+one_CD
+is_VPRT [BEMA]
+interested_PRED
+in_PIN
+learning_VBG [PRIV]
+._.
+We_FPP1
+should_NEMD
+not_XX0
+try_VB
+to_TO
+do_VB [PROD]
+everything_QUPR
+the_DT
+same_JJ
+way_NN
+._.
+We_FPP1
+should_NEMD
+try_VB
+new_JJ
+things_NN
+to_TO
+learn_VB [PRIV]
+something_QUPR
+new_JJ
+,_,
+and_ANDC
+make_VB
+mistakes_NN
+as_IN
+we_FPP1
+go_VPRT
+._.
+I_FPP1
+believe_VPRT [PRIV]
+that_THVC
+we_FPP1
+should_NEMD
+try_VB
+to_TO
+learn_VB [PRIV]
+from_PIN
+people_NN
+whose_WPS [WHOBJ]
+opinions_NN
+we_FPP1
+do_VPRT
+n't_XX0 [CONT]
+agree_VB [SUAV] [PUBV]
+with_PIN [STPR]
+._.
+I_FPP1
+believe_VPRT [PRIV]
+that_THVC
+disagreement_NOMZ
+is_VPRT [BEMA]
+necessary_PRED
+for_PIN
+growth_NN
+and_PHC
+development_NOMZ
+._.
+Disagreement_NOMZ
+can_POMD
+lead_VB
+to_TO
+conflict_VB
+,_,
+which_WDT [SERE]
+in_PIN
+turn_NN
+can_POMD
+lead_VB
+to_PIN
+disharmony_NN
+._.
+I_FPP1
+agree_VPRT [SUAV] [PUBV]
+with_PIN
+the_DT
+statement_NOMZ
+because_CAUS
+it_PIT
+makes_VPRT
+people_NN
+more_EMPH
+likely_JJ
+to_TO
+be_VB [PASS]
+stressed_VBN
+,_,
+which_WDT [SERE]
+can_POMD
+be_VB [BEMA]
+harmful_PRED
+to_PIN
+our_FPP1
+mental_JJ
+health_NN
+._.
+I_FPP1
+also_RB
+believe_VPRT [PRIV] [THATD]
+that_DEMP
+this_DEMP
+is_VPRT [BEMA]
+important_PRED
+for_PIN
+learning_VBG [PRIV]
+because_CAUS
+disagreeing_VBG
+with_PIN
+another_DT
+person_NN
+can_POMD
+be_VB [BEMA]
+a_DT
+turn-off_PIN [STPR]
+._.
+I_FPP1
+believe_VPRT [PRIV]
+that_THVC
+people_NN
+need_VPRT
+to_TO
+learn_VB [PRIV]
+from_PIN
+people_NN
+whose_WPS [WHOBJ]
+perspectives_NN
+they_TPP3
+disagree_VPRT
+with_PIN [STPR]
+._.
+This_DEMP
+can_POMD
+be_VB [BEMA]
+a_DT
+positive_JJ
+experience_NN
+and_CC
+it_PIT
+can_POMD [SPAU]
+also_RB
+lead_VB
+to_TO
+sharing_VBG
+,_,
+which_WDT [SERE]
+is_VPRT
+what_WP
+growth_NN
+is_VPRT [BEMA]
+all_QUAN
+about_RB
+._.
+The_DT
+statement_NOMZ
+is_VPRT [BEMA]
+important_PRED
+for_PIN
+human_JJ
+development_NOMZ
+because_CAUS
+it_PIT
+helps_VPRT
+us_FPP1
+to_TO
+grow_VB
+mentally_RB
+._.
+I_FPP1
+disagree_VPRT
+with_PIN
+the_DT
+statement_NOMZ
+because_CAUS
+it_PIT
+makes_VPRT
+people_NN
+less_RB
+likely_JJ
+to_TO
+learn_VB [PRIV]
+from_PIN
+others_NN
+,_,
+which_WDT [SERE]
+is_VPRT
+what_WP
+learning_GER
+is_VPRT [BEMA]
+all_QUAN
+about_RB
+._.
+I_FPP1
+believe_VPRT [PRIV]
+that_THVC
+there_EX
+are_VPRT
+many_QUAN
+ways_NN
+of_PIN
+learning_GER
+,_,
+not_XX0
+just_EMPH
+different_JJ
+kinds_NN
+of_PIN
+learning_GER
+,_,
+and_ANDC
+people_NN
+should_NEMD
+learn_VB [PRIV]
+from_PIN
+others_NN
+who_WP [WHSUB]
+may_POMD
+not_XX0
+agree_VB [SUAV] [PUBV]
+with_PIN
+them_TPP3
+._.
+As_IN
+I_FPP1
+said_VBD [PUBV]
+,_,
+I_FPP1
+disagree_VPRT
+with_PIN
+the_DT
+statement_NOMZ
+because_CAUS
+it_PIT
+causes_VPRT
+people_NN
+to_TO
+feel_VB [PRIV]
+stress_NN
+and_CC
+discourages_VPRT
+them_TPP3
+from_PIN
+learning_VBG [PRIV]
+._.
+I_FPP1
+believe_VPRT [PRIV]
+that_THVC
+it_PIT
+is_VPRT [BEMA]
+important_PRED
+to_TO
+learn_VB [PRIV]
+from_PIN
+a_DT
+variety_NN
+of_PIN
+viewpoints_NN
+._.
+It_PIT
+can_POMD [SPAU]
+also_RB
+result_VB
+in_PIN
+better_JJ
+and_PHC
+more_EMPH
+thoughtful_JJ
+decisions_NN
+._.
+I_FPP1
+believe_VPRT [PRIV]
+that_THVC
+people_NN
+should_NEMD
+try_VB
+different_JJ
+things_NN
+._.
+They_TPP3
+can_POMD
+learn_VB [PRIV]
+more_EMPH
+from_PIN
+different_JJ
+viewpoints_NN
+if_COND
+they_TPP3
+try_VPRT
+a_DT
+new_JJ
+type_NN
+of_PIN
+learning_GER
+._.
+I_FPP1
+think_VPRT [PRIV]
+that_THVC
+people_NN
+should_NEMD
+learn_VB [PRIV]
+to_TO
+disagree_VB
+._.
+I_FPP1
+think_VPRT [PRIV]
+that_THVC
+it_PIT
+is_VPRT [BEMA]
+important_PRED
+for_PIN
+people_NN
+to_TO
+try_VB
+different_JJ
+things_NN
+._.
+I_FPP1
+believe_VPRT [PRIV]
+that_THVC
+people_NN
+should_NEMD
+try_VB
+new_JJ
+things_NN
+because_CAUS
+it_PIT
+is_VPRT [BEMA]
+a_DT
+part_NN
+of_PIN
+learning_GER
+._.
+</s>_IN

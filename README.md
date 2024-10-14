@@ -33,7 +33,4 @@
 3. ReClor: Reading Comprehension related to logical reasoning
    ![Alt text](./StageIII/pics/ReClor_pic1.png)
 
-4. Diffcult Words Inference
-
-4. Verbal Reasoning
    

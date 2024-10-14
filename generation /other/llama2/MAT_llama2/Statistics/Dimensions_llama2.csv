@@ -1,0 +1,12 @@
+Filename,Dimension1,Dimension2,Dimension3,Dimension4,Dimension5,Dimension6,Closest Text Type
+0-llama2,-4.95,6.56,16.95,-0.73,11.66,-0.33,Scientific exposition
+8-llama2,-16.86,-0.97,14.79,-1.3,15.78,-0.12,Scientific exposition
+7-llama2,-9.83,-3.79,8.83,-0.64,5.06,1.33,Scientific exposition
+6-llama2,-3.19,6.63,14.18,-3.55,14.11,-2.95,Scientific exposition
+9-llama2,-1.17,-3.48,14.11,3.56,7.21,1.86,Involved persuasion
+1-llama2,-6.91,-5.68,16.9,10.73,11.58,3.62,Scientific exposition
+3-llama2,-4.33,-2.04,18.67,-1.75,16.86,0.21,Scientific exposition
+4-llama2,-5.74,-4.53,16.6,7.7,14.3,0.7,Scientific exposition
+5-llama2,-6,-5.29,21.37,0.45,9.72,-0.73,Scientific exposition
+2-llama2,0.200000000000001,-6.73,18.68,2.84,6.42,5.52,Involved persuasion
+llama2,-5.88,-1.93,16.11,1.73,11.27,0.91,Scientific exposition

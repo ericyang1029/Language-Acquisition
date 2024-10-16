@@ -1,4 +1,4 @@
-# Pyscholinguistic-Benchmark
+# Language Acquisition
 
 ## Stage I (from 0 - 6)
 1. agent-action-object (from BLiMP)
